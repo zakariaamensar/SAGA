@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "service.endpoints.inventory",
+    "type": "java.lang.String",
+    "description": "A description for 'service.endpoints.inventory'"
+  },
+  {
+    "name": "service.endpoints.payment",
+    "type": "java.lang.String",
+    "description": "A description for 'service.endpoints.payment'"
+  }
+]}
