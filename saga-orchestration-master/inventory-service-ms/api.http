@@ -1,8 +1,0 @@
-POST http://localhost:8080/deduct
-Content-Type: application/json
-
-{ 
-    "productId":"maticha",
-    "userId":"hafiddi",
-    "orderId": "order1"
-}
